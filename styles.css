@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 div{
 	background-color: rgb(135, 206, 235);
+	width: 500px;
+	height: 500px;
 }
 div>p:first-child {
 	background-color: black;
