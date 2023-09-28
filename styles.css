@@ -4,14 +4,14 @@ div{
 	width: 500px;
 	height: 500px;
 }
-div>p:first-child {
+p:first-child {
 	background-color: black;
 	color: white;
 }
-div>p:nth-child(2) {
+p:nth-child(2) {
 	color: black;
 }
-div>p:last-child {
+p:last-child {
 	color: red;
 }
 li {
